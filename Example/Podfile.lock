@@ -1,0 +1,16 @@
+PODS:
+  - LsDialLibrary (0.1.0)
+
+DEPENDENCIES:
+  - LsDialLibrary (from `../`)
+
+EXTERNAL SOURCES:
+  LsDialLibrary:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LsDialLibrary: 7823402a9b6201e2b279c512637db4dff82ff16e
+
+PODFILE CHECKSUM: ac25f95e635f28fccb8ea6ee25d5f95a396d9dc4
+
+COCOAPODS: 1.11.2

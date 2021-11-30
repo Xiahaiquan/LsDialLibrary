@@ -1,0 +1,6 @@
+framework module LsDialLibrary {
+  umbrella header "LsDialLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
